@@ -1,4 +1,4 @@
 ethiopia
 ========
 
-Alex Mannes' Ethiopia website code.
+Alex Maass' Ethiopia website code.
